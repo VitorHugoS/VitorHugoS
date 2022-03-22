@@ -1,14 +1,12 @@
-## Olá, Seja bem vindo! Sou Diego Melo
+## Olá, Seja bem vindo! Sou Vitor Hugo
 
-- 🔭 Trabalho como desenvolvedor Java
-- 🌱 Estudando Bootcamp Spring/React e AWS
-- 📫 Contate-me no email: diego_melo_1991@hotmail.com
-- ⚡ Curiodade é que comecei a estudar programação em C com 12 anos para trabalhar com Counter Strike
+- 🔭 Trabalho como desenvolvedor FullStack (Java/Node/VueJS)
+- 📫 Contate-me no email: vitorhugos17@gmail.com
 
 <div align="center">
-  <a href="https://github.com/volkovt">
+  <a href="https://github.com/VitorHugoS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=volkovt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkovt&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHugoS&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,10 +21,10 @@
 </div>
 <br>
 <div> 
-  <a href="https://www.instagram.com/diieegomelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:diego_melo_1991@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-melo-6ba44068/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/vitor.schieffler" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitorhugoss17@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitorhugos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/volkovt/volkovt/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VitorHugoS/VitorHugoS/blob/output/github-contribution-grid-snake.svg)
  
 </div>
